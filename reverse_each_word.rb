@@ -4,5 +4,5 @@ def reverse_each_word(string)
     word.reverse
 
   end
-  return myStringArray.join(" ")
+  return myStringArray
 end
